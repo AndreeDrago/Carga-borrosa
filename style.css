@@ -1,0 +1,18 @@
+.imagen {
+    background: url('Imagenes/959266.jpg')
+      no-repeat center center/cover;
+    position: absolute;
+    top: -30px;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    filter: blur(0px);
+}
+  
+.textoCarga {
+    font-size: 50px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin: 45vh;
+}
